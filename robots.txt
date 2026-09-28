@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.pinguirc.cn/sitemap.xml
